@@ -1,0 +1,13 @@
+{
+  "name": "loop",
+  "version": "1.0.0",
+  "description": "Subscribes to Loop websockets for electricity and gas readings.",
+  "main": "loop.js",
+  "author": "Marcos Scriven",
+  "license": "MIT",
+  "scripts": { "start" : "node node-loop.js" },
+  "dependencies" : {
+     "socket.io-client" : "0.9.16",
+     "console-stamp" : "latest"
+  }
+}
