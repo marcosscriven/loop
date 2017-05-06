@@ -15,7 +15,7 @@ by logging into your-loop.com, opening your browser's terminal (see [here](http:
 
 ## Browser Client
 
-![Screenshot](https://raw.githubusercontent.com/marcosscriven/marcosscriven.github.io/master/loop/screenshot.png)
+![Screenshot](https://marcosscriven.github.io/loop/screenshot.png)
 
 
 * Go to http://marcosscriven.github.io/loop/
@@ -25,7 +25,7 @@ by logging into your-loop.com, opening your browser's terminal (see [here](http:
 
 ## Node Client
 
-![Screenshot](https://raw.githubusercontent.com/marcosscriven/marcosscriven.github.io/master/loop/console.png)
+![Screenshot](https://marcosscriven.github.io/loop/console.png)
 
 * npm install
 * Edit node-loop.js with your serial/secret
