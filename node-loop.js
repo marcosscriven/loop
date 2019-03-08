@@ -14,7 +14,6 @@ var elec_secret = 'xxx';
 // var gas_serial = 'xxx';
 // var gas_secret = 'xxx';
 
-// Need version 0.9.16, newer versions incompatible
 var socket = io.connect('https://www.your-loop.com', {reconnect: true});
 
 // Connect
