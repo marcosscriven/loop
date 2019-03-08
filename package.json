@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": { "start" : "node node-loop.js" },
   "dependencies" : {
-     "socket.io-client" : "0.9.16",
+     "socket.io-client" : "2.2.0",
      "console-stamp" : "latest"
   }
 }
